@@ -1,0 +1,6 @@
+language: java
+name: student_registration_runCI
+type: runCI
+steps:
+  - IN: student_registration_ciRepo
+---
